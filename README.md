@@ -16,3 +16,12 @@ SELECT prod.name [продукт], cat.name [категория] FROM Products p
     INNER JOIN Category cat ON cat.id = prodcat.category_id
 ORDER BY prod.name;
  </code>
+
+
+
+#EF
+>![image](https://user-images.githubusercontent.com/81651689/206434628-b852faf6-c4c2-45c0-8290-876d430f5811.png) ![image](https://user-images.githubusercontent.com/81651689/206436345-f44d7ea8-adb6-42a3-874f-0e6f68cc9e97.png)
+#Command
+>![image](https://user-images.githubusercontent.com/81651689/206436365-24cd4370-d086-4f79-97e9-dbfd335626f8.png)
+
+
